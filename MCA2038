@@ -1,0 +1,9 @@
+import gtts
+from playsound import playsound
+
+# make request to google to get synthesis
+tts = gtts.gTTS("this is a text-to-speech program, you can use different languages",lang="en")
+# save the audio file
+tts.save("audio.mp3")
+# play the audio file
+playsound("audio.mp3")
