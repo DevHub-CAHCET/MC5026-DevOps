@@ -1,0 +1,111 @@
+<html>
+<head>
+<frameset rows ="25%,*" size="1">
+<frame src="name.html">
+<frameset cols ="50%,*",>
+<frame src="profile.html" name="f1">
+<frame src="table.html" name="f2">
+</head>
+</html>
+
+
+
+<html>
+<head>
+<title>mca staff display name</title>
+</head>
+<body bgcolor="pink"text="black">
+<font size="20"><marquee>welcome</marquee></font>
+</body>
+</html>
+
+
+
+
+<html>
+<head>
+<title>profile</title>
+</head>
+<body bgcolor="thistle">
+<b>
+<center>
+<font space size=20>
+<u>STUDENT DETAILS</u>
+</font>
+</center></b><br>
+<img src="C:\Users\Administrator\Desktop\IMG_20211017_234650.jpg" height="90" width="80"/><br>
+<p align="left"<b>NAME:Rizwana</b></p>
+<p align="left"<b>AGE:20</b></p>
+<p align="left"<b>QUALIFICATION:Mca 2nd year</b></p>
+<p align="left"<b>LIKE:Drawing</b></p>
+<p align="left"<b>DISLIKE:Lying</b></p>
+<p align="left"<b>HOBBIES:Listening music's,books reading, and most fav nap</b></p>
+<p align="left"<b>AIM:Artis</b></p>
+</body>
+</html>
+
+
+
+<html>
+<head>
+<title>table</title>
+</head>
+<body bgcolor="wheat">
+<h1><font color="black" size="5"<u>
+<center><u>TABLE CREATION</u></center>
+<center><u>C.Abdul hakeem college of engineering and technology</u></center>
+</u></font></h1>
+<img src="C:\Users\Administrator\Desktop\abdul_cover-m1215-original.jpg" height="210 width="210"/><br>
+<center><table border=1 border color="skyblue" cellspacing=2 cellpadding=5 align=center width="10%"></center>
+<tr>
+<td colspan="3" valign="middle">
+<center><font color="black" size="5">
+<b>MCA STAFF DETAILS</b></font></center>
+</td>
+</tr>
+<tr>
+<th><font color="black" size="4">S.NO</th>
+<th><font color="black" size="4">STAFF NAME</th>
+<th><font color="black" size="4">SUBJECT NAME</th>
+</tr>
+<tr>
+<td><font color="black" size="4">1</td>
+<td><font color="black" size="4">Feroz khan(A.B)</td>
+<td><font color="black" size="4">Organizational behavior</td>
+</tr>
+<tr>
+<td><font color="black" size="4">2</td>
+<td><font color="black" size="4">Mohammed yacoob(B.A)</td>
+<td><font color="black" size="4">Data mining and data warehousing techniques</td>
+</tr>
+<tr>
+<td><font color="black" size="4">3</td>
+<td><font color="black" size="4">Nishath Ahmed(M)</td>
+<td><font color="black" size="4">Microservices and devops</td>
+</tr>
+<tr>
+<td><font color="black" size="4">4</td>
+<td><font color="black" size="4">Sadique Basha(Dr.M)</td>
+<td><font color="black" size="4">Advances in networking/td>
+</tr>
+<tr>
+<td><font color="black" size="4">5</td>
+<td><font color="black" size="4">Gnanasekaran(Dr.E)</td>
+<td><font color="black" size="4">Accounting and financial management for application development</td>
+</tr>
+<tr>
+<td><font color="black" size="4">6</td>
+<td><font color="black" size="4">ECE Staff</td>
+<td><font color="black" size="4">Embedded system and internet of things</td>
+</tr>
+<tr>
+<td><font color="black" size="4">7</td>
+<td><font color="black" size="4">Sumaiya Banu</td>
+<td><font color="black" size="4">Data science</td>
+</tr>
+</table></body></html>
+
+
+
+
+
