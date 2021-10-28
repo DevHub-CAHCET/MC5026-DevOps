@@ -1,1 +1,46 @@
 
+
+<html>
+<head><title>CALCULATOR</title>
+<script language="javascript">
+var inputstring=" "
+function updatestring(value)
+{
+inputstring +=value;
+document.calculator.input.value=inputstring;
+}
+</script>
+</head>
+<body background=flow-yellow.jpg>
+<form name="calculator">
+<table border=5 bordercolor=red bgcolor="#ffffccc"><tr><td>
+<input type="text" name="input" maxlength=10 size=10><br>
+<input type="button" value="clear" size=1 onclick="input.value='';inputstring=''">
+<input type="button" value="7" onclick="updatestring('7')"><br/>
+<input type="button" value="8" onclick="updatestring('8')">
+<input type="button" value="9" onclick="updatestring('9')">
+<input type="button" value="4" onclick="updatestring('4')">
+<input type="button" value="5" onclick="updatestring('5')">
+<input type="button" value="6" onclick="updatestring('6')">
+<input type="button" value="1" onclick="updatestring('1')">
+<input type="button" value="2" onclick="updatestring('2')">
+<input type="button" value="3" onclick="updatestring('3')"><br/>
+<input type="button" value="00" onclick="updatestring('00')">
+<input type="button" value="0" onclick="updatestring('0')">
+<input type="button" value="." onclick="updatestring('.')">
+<input type="button" value="%" onclick="updatestring('%')"><br/>
+<input type="button" value="+" onclick="updatestring('+')">
+<input type="button" value="-" onclick="updatestring('-')">
+<input type="button" value="="onclick="input.value=eval(inputstring);">
+</td></tr>
+</table>
+</from>
+</body>
+</html>
+
+
+
+
+
+
+
